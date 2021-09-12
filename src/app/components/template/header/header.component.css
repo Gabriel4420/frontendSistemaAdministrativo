@@ -1,0 +1,26 @@
+.header{
+    display:flex;
+    align-items: center;
+    background-color: #eecb31;
+}
+
+.header a {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration:none;
+    color:white;
+}
+
+.header .logo {
+    max-height: 32px;
+    margin-right: 40px;
+}
+
+.header .title-group {
+    padding-left:25px;
+}
+
+.header .title-group i {
+    padding-right:5px;
+}
