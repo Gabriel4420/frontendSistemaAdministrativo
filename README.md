@@ -1,27 +1,84 @@
-# Frontend
+<div align="center" id="top"> 
+  <img src="./HomeApp.png" alt="Frontend" />
+  &#xa0;
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
+<h1 align="center">Sistema simples de Gestão de Produtos</h1>
 
-## Development server
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/Gabriel4420/frontend?color=56BEB8">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/Gabriel4420/frontend?color=56BEB8">
 
-## Code scaffolding
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/Gabriel4420/frontend?color=56BEB8">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Gabriel4420/frontend?color=56BEB8" /> -->
 
-## Build
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Gabriel4420/frontend?color=56BEB8" /> -->
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Gabriel4420/frontend?color=56BEB8" /> -->
+</p>
 
-## Running unit tests
+<!-- Status -->
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<!-- <h4 align="center"> 
+	🚧  Frontend 🚀 Em construção...  🚧
+</h4> 
 
-## Running end-to-end tests
+<hr> -->
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="https://github.com/Gabriel4420" target="_blank">Autor</a>
+</p>
 
-## Further help
+<br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## :dart: Sobre ##
+
+Projeto CRUD de gestão de produtos para o entendimento básico de angular 9 e suas features, segue abaixo uma lista de funcinalidades que foram implementadas no projeto
+
+## :sparkles: Funcionalidades ##
+
+:heavy_check_mark: Cadastro de Produtos
+:heavy_check_mark: Remoção de Produtos 
+:heavy_check_mark: Atualização de produtos
+:heavy_check_mark: Leitura de produtos em uma table 
+
+## :rocket: Tecnologias ##
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Angular](https://angular.io/guide/what-is-angular)
+- [RXJS](https://rxjs.dev)
+
+## :white_check_mark: Pré requisitos ##
+
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+
+## :checkered_flag: Começando ##
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/Gabriel4420/frontend
+
+# Instale as dependências
+$ yarn
+
+# Para iniciar o projeto
+$ yarn start
+
+# O app vai inicializar em <http://localhost:3000>
+```
+
+Feito com :heart: por <a href="https://github.com/Gabriel4420" target="_blank">Gabriel Rodrigues Perez</a>
+
+&#xa0;
+
+<a href="#top">Voltar para o topo</a>

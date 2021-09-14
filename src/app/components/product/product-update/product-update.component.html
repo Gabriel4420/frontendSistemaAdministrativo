@@ -1,0 +1,32 @@
+<mat-card class="card-update-product">
+    <mat-card-title class="h1">Update Product</mat-card-title>
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Name"
+                [(ngModel)]="product.name" name="name">
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Price (R$)"
+                [(ngModel)]="product.price" name="price">
+        </mat-form-field>
+       
+    </form>
+    <div class="buttons">
+       <button mat-raised-button (click)="updateProduct()" color="success">
+          update 
+       </button>
+       
+       
+       <button mat-raised-button (click)="cancel()" color="warn">
+          cancel
+       </button>
+    </div>
+ </mat-card>
+ <!-- 
+    ! Binding de atributo
+ <p [id]="propLegal">create works!</p>
+    ! Binding de evento
+ <button (click)="fazerAlgo()">Fazer Algo!</button> 
+ 
+ -->
+ 

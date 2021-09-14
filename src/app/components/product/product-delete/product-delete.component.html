@@ -1,0 +1,32 @@
+<mat-card class="card-update-product">
+    <mat-card-title class="h1">Delete Product</mat-card-title>
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Nome"
+                [value]="product.name" name="name" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Preço (R$)"
+                [value]="product.price" name="price" disabled>
+        </mat-form-field>
+       
+    </form>
+    <div class="buttons">
+       <button mat-raised-button (click)="deleteProduct()" color="warn">
+          Delete 
+       </button>
+       
+       
+       <button mat-raised-button (click)="cancel()" color="primary">
+          cancel
+       </button>
+    </div>
+ </mat-card>
+ <!-- 
+    ! Binding de atributo
+ <p [id]="propLegal">create works!</p>
+    ! Binding de evento
+ <button (click)="fazerAlgo()">Fazer Algo!</button> 
+ 
+ -->
+ 

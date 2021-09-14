@@ -1,0 +1,33 @@
+.card-update-product{
+    display:flex;
+    flex-direction:column;
+
+    align-items: center;
+    justify-content:center;
+}
+
+.h1{
+    font-size:50px;
+    font-weight: 300;
+}
+
+form{
+    display:flex;
+    flex-direction:column;
+    
+    width: 100%;
+    font-size: 20px;
+}
+
+
+button{
+    margin-right: 15px;
+    margin-top:10px;
+}
+
+.buttons{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width:100%;
+}
