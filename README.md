@@ -6,23 +6,23 @@
 <h1 align="center">Sistema simples de Gestão de Produtos</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/Gabriel4420/frontend?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/Gabriel4420/frontend?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/Gabriel4420/frontend?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Gabriel4420/frontend?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Gabriel4420/frontend?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Gabriel4420/frontend?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Frontend 🚀 Em construção...  🚧
+	🚧  frontendSistemaAdministrativo 🚀 Em construção...  🚧
 </h4> 
 
 <hr> -->
@@ -66,7 +66,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Gabriel4420/frontend
+$ git clone https://github.com/Gabriel4420/frontendSistemaAdministrativo
 
 # Instale as dependências
 $ yarn
