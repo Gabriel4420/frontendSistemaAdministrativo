@@ -12,11 +12,7 @@
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Gabriel4420/frontendSistemaAdministrativo?color=56BEB8" /> -->
+  
 </p>
 
 <!-- Status -->
@@ -40,7 +36,7 @@
 
 ## :dart: Sobre ##
 
-Projeto CRUD de gestão de produtos para o entendimento básico de angular 9 e suas features, segue abaixo uma lista de funcinalidades que foram implementadas no projeto
+Projeto CRUD de gestão de produtos para o entendimento básico de angular 9 e suas features, segue abaixo uma lista de funcionalidades que foram implementadas no projeto
 
 ## :sparkles: Funcionalidades ##
 
